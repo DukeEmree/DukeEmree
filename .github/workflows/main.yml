@@ -20,7 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=codeberk-dark
 
       # 2. Üretilen dosyaları doğrudan depoya commit edip pushlar
       - name: Push snake to repo

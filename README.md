@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Apps<br>🌱 I’m currently learning Using AI agents, AWS and Azure<br>💬 Ask me about FRC Robotics and Web Development
+🔭 I’m currently working on Mobile Apps<br>🌱 I’m currently learning ROS2<br>💬 Ask me about FRC Robotics and Web Development
 
 
 ## 🌐 Socials:
